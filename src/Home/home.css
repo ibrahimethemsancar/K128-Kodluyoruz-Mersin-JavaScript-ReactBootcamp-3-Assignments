@@ -1,0 +1,21 @@
+#head{
+    background-color: blueviolet;
+}
+
+.categoryImage{
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 247, 140);
+    font-size: 20px;
+  }
+  .img{
+      
+      height: fit-content;
+  }
